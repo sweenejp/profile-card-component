@@ -57,7 +57,8 @@ body {
   background: 
     url(/images/bg-pattern-top.svg),
     url(/images/bg-pattern-bottom.svg);
-  background-position: -25% -600px, 150% 300px;
+  background-position: bottom 4
+  0vh right 50vw, top 50vh left 50vw ;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: var(--darkcyan);
