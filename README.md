@@ -1,5 +1,9 @@
 This is my attempt at completing this challenge from [frontendmentor.io](https://www.frontendmentor.io/challenges). The original instructions are below. Feel free to fork this repository!
 
+Live site here: [](https://jsweeney-profile-card-component.netlify.app/)
+
+---
+
 # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
